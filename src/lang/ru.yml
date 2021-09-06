@@ -1560,13 +1560,16 @@ CALL_INVITE_3: ' §fДля отмены запроса пиши §c'
 CALL_INVITE_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
 TPTOGGLE_ENABLE: 'Телепортации - §aвключены'
 TPTOGGLE_DISABLE: 'Телепортации - §cотключены'
-TRADE_FORMAT: '/trade <ник игрока>'
+TRADE_ERROR: С вами еще никто не хотел поменяться
+TRADE_ERROR2: У вас нет ожидающих заявок от игрока %s
+TRADE_ERROR_YOU: §cВы не можете принимать запросы сами от себя :/
+TRADE_FORMAT: /trade <ник игрока>
 TRADE_HELP:
-- '§7/trade <ник> §f- предложить обмен'
-- '§7/trade accept <ник> §f- принять обмен'
-TRADE_ERROR_YOU: '§cВы не можете обмениваться сам с собой'
-TRADE_ERROR: '§2Trade §8▏ §fС вами еще никто не хотел поменяться'
-TRADE_ERROR2: '§2Trade §8▏ §fУ вас нет ожидающих заявок от игрока %s'
+- §7/trade <ник> §f- предложить обмен
+- §7/trade accept <ник> §f- принять обмен
+TRADE_INVITE_1: '%s §fпредложил вам обмен'
+TRADE_PREFIX: §6Trade §8| §f
+TRADE: §fЗапрос на обмен отправлен игроку %s
 #skyblock holo
 HOLO_SKYBLOCK_START:
 - '§fДля начала игры на режиме "§3СкайБлок§f"'
