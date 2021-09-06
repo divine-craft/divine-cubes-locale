@@ -10824,8 +10824,11 @@ EFFECT_DOLPHINS_GRACE: Дельфинья грация
 EFFECT_HERO_OF_THE_VILLAGE: Герой деревни
 EFFECT_NIGHT_VISION: Ночное зрение
 
-ISLAND_CLEAR_STATS_APPLY: $SB_PREFIX$Статистика очищена
-ISLAND_CLEAR_STATS_ERROR: $SB_PREFIX$Вы не можете очистить пустую статистику
+ISLAND_BUY_BASALT_GENERATOR: '§2SkyBlock §8▏ Игрок %s §fулучшил базальтовый генератор
+  для вашего острова до §a%s §fуровня'
+
+ISLAND_CLEAR_STATS_APPLY: '§2SkyBlock §8▏ Статистика очищена'
+ISLAND_CLEAR_STATS_ERROR: '§2SkyBlock §8▏ Вы не можете очистить пустую статистику'
 ISLAND_CLEAR_STATS_LORE:
 - ''
 - §7Очистить вашу личную
