@@ -4744,7 +4744,11 @@ ISLAND_ACHIEVEMENT_CHICKEN_LORE:
 ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Свиней §fх2'
 
-
+LOBBY_SETTINGS_HIDE_JOIN_MESSAGE_NAME: 'Скрыть сообщение при входе'
+LOBBY_SETTINGS_HIDE_JOIN_MESSAGE_LORE:
+  - '§7Позволяет скрывать сообщение,'
+  - '§7которое показывается при Вашем входе'
+  - '§7на любой из серверов проекта'
 LOBBY_SETTINGS_SHOW_GUILD_TAG_NAME: 'Тэг гильдии'
 LOBBY_SETTINGS_SHOW_GUILD_TAG_LORE:
   - '§7Позволяет включить или выключить'
