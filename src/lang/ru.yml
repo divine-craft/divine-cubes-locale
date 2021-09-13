@@ -9548,8 +9548,8 @@ BEST_PLAYER_LORE:
 BEST_PLAYER_LORE_2:
 - ''
 - '§b▸ Нажмите, чтобы открыть его статистику'
-BEST_PLAYER_GUI: 'Любимый игрок Доброго'
-BEST_PLAYER_HOLO: '§fЛюбимый игрок Доброго:'
+BEST_PLAYER_GUI: 'Любимый игрок Юлика'
+BEST_PLAYER_HOLO: '§fЛюбимый игрок Юлика:'
 BEST_PLAYER_HOLO2: '§7Нажмите, чтобы сменить его!'
 
 TITLE_TYPE_LORE:
