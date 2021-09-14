@@ -1,5 +1,5 @@
 LANGUAGE_CHANGE: '§5Сервер §8| §fВаш язык изменен на §c%s'
-BOARD_DOMAIN: '§aplay.kanddycraft.net'
+BOARD_DOMAIN: '§aplay.kanddycraft.ru'
 PROJECT_NAME: '§5§lKanddyCraft'
 
 TOP_POSITION: '§e%s место'
@@ -177,7 +177,7 @@ DISCORD_HELP:
   - '§7/discord info <ник игрока> §f- узнать дискорд игрока'
 DISCORD_UNLINK: '§5Discord §8▏ §fВы успешно отвязали аккаунт %s'
 DISCORD_LINK: '§5Discord §8▏ §fВы успешно привязали аккаунт %s §fк Discord §7%s'
-DISCORD_LINK_ERROR_SERVER: '§5Discord §8▏ §fОшибка, вы должны зайти в Discord сервер KanddyCraft §7discord.KanddyCraft.net'
+DISCORD_LINK_ERROR_SERVER: '§5Discord §8▏ §fОшибка, вы должны зайти в Discord сервер KanddyCraft §7discord.KanddyCraft.ru'
 DISCORD_LINK_FORMAT: '/discord link <tag>'
 DISCORD_LINK_ALREADY: '§5Discord §8▏ §fОшибка, у вас уже есть привязка к Discord'
 DISCORD_LINK_ALREADY_2: '§5Discord §8▏ §fОшибка, данный Discord уже привязан к другому аккаунту'
@@ -225,9 +225,9 @@ NO_CHANGE_SKIN: '§cСкин установлен, но для его обнов
 FINAL_KILL: '%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!'
 
 BOSS_BAR_LOBBY:
-- '§fПОДДЕРЖИ НАШУ §aДЕРЕВНЮ§f, КУПИ §eПРИВИЛЕГИЮ §fНА САЙТЕ §7► §6§lKanddyCraft.NET'
-- '§fУСТАЛ ИГРАТЬ §eОДИН? §fЗАХОДИ В §9§lDISCORD §7► §d§lDISCORD.KanddyCraft.NET'
-- '§fНАШ §aЕДИНСТВЕННЫЙ §fИ §eНЕПОВТОРИМЫЙ §fСАЙТ §7► §6§lKanddyCraft.NET'
+- '§fПОДДЕРЖИ НАШУ §aДЕРЕВНЮ§f, КУПИ §eПРИВИЛЕГИЮ §fНА САЙТЕ §7► §6§lKanddyCraft.ru'
+- '§fУСТАЛ ИГРАТЬ §eОДИН? §fЗАХОДИ В §9§lDISCORD §7► §d§lDISCORD.KanddyCraft.ru'
+- '§fНАШ §aЕДИНСТВЕННЫЙ §fИ §eНЕПОВТОРИМЫЙ §fСАЙТ §7► §6§lKanddyCraft.ru'
 
 LIMIT_REACHED: '§5Сервер §8▏ §fВы достигли лимита для этого наказания, подождите еще §e%s'
 
@@ -340,7 +340,7 @@ HOLO_DONATE:
 - '§%animation%§lCRYSTAL §f- §6859 §fРублей'
 - '§c§lCANDY §f- §61399 §fРублей'
 - '§fНаш онлайн-магазин:'
-- '§a§lKanddyCraft.NET'
+- '§a§lKanddyCraft.ru'
 
 BOOK_RULES_NAME: '§eПравила'
 BOOK_RULES_LORE:
@@ -1696,7 +1696,7 @@ TAB_HEADER:
 - '§5§lKanddyCraft'
 - ''
 - '§fПривилегии, кейсы и многое другое:'
-- '§aKanddyCraft.net'
+- '§aKanddyCraft.ru'
 - ''
 TAB_FOOTER:
 - ''
@@ -2487,7 +2487,7 @@ REWARD_DONATE_ITEM_LORE:
 - '§7награды, а монет не хватает, то'
 - '§7заходи к нам на сайт, там ты'
 - '§7сможешь приобрести их по выгодной цене'
-- '§7Сайт: §dKanddyCraft.net'
+- '§7Сайт: §dKanddyCraft.ru'
 REWARD_HOLOGRAM:
 - '§aВознаграждения'
 - '§7Нажмите, чтобы открыть'
@@ -5105,7 +5105,7 @@ GADGETS_GIVE_DONATE_ONLY: '§7Бесплатно для %s'
 GADGETS_GIVE_GOLD: '§7Цена: §6%s пряников'
 GADGETS_GIVE_BOX: '§7Выпадает из §bСундука удачи §7(%s§7)'
 GADGETS_GIVE_LEVEL: '§7При достижении §d%s §7уровня'
-GADGETS_GIVE_SITE: '§7Купить на сайте §bKanddyCraft.net'
+GADGETS_GIVE_SITE: '§7Купить на сайте §bKanddyCraft.ru'
 GADGETS_NO_USE: '§cДанный гаджет вам недоступен'
 GADGETS_FAVORITE_ADD: '§aПКМ, чтобы добавить в избранное'
 GADGETS_FAVORITE_REMOVE: '§cПКМ, чтобы убрать из избранного'
@@ -6413,9 +6413,9 @@ SURVIVAL_DATA: 'Баты'
 GOLD_DATA: 'Пряники'
 DONATE_MENU_JOIN_MESSAGE_ENABLE: '§5Сообщение при входе §8▏ §fСообщение под номером §a%s §fактивировано'
 DONATE_MENU_JOIN_MESSAGE_BUY: '§5Сообщение при входе §8▏ §fВы успешно купили §a%s §fсообщение'
-GAMER_NO_KEYS: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §dKanddyCraft.net §7(жми)'
-GAMER_NO_MYSTERY_DUST: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §dKanddyCraft.net §7(жми)'
-GAMER_NO_GOLD: '§5Сервер §8▏ §fОшибка! У вас недостаточно §6пряников§f для покупки! Покупка пряников осуществляется только на сайте §dKanddyCraft.net §7(жми)'
+GAMER_NO_KEYS: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §dKanddyCraft.ru §7(жми)'
+GAMER_NO_MYSTERY_DUST: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §dKanddyCraft.ru §7(жми)'
+GAMER_NO_GOLD: '§5Сервер §8▏ §fОшибка! У вас недостаточно §6пряников§f для покупки! Покупка пряников осуществляется только на сайте §dKanddyCraft.ru §7(жми)'
 SITE_SHOP_WAIT_MESSAGE: '§5Магазин §8▏ §fУ вас есть §a%s §fпредметов, которые вы не забрали после покупки! Чтобы их забрать, напишите §7/give'
 SITE_SHOP_ITEMS_NAME: 'Предметы'
 SITE_SHOP_DISABLE_SPAWNERS: '§cСмена существа в рассаднике монстров отключена!'
@@ -6424,7 +6424,7 @@ SITE_SHOP_ITEMS_GUI_NAME: 'Доступные предметы'
 SITE_SHOP_ITEM_EMPTY_NAME: '§cНет доступных предметов'
 SITE_SHOP_ITEM_EMPTY_LORE:
 - '§7У вас нет доступных предметов'
-- '§7Покупка на сайте §dKanddyCraft.net'
+- '§7Покупка на сайте §dKanddyCraft.ru'
 SITE_SHOP_ITEM_LORE_1:
 - '§7Получить следующие предметы:'
 SITE_SHOP_ITEM_LORE_2:
@@ -6687,7 +6687,7 @@ BOX_GUI_HELP2_LORE:
 - '§7Если же вам не хватает ключей,'
 - '§7то вы всегда их можете купить за монеты'
 - '§7нажав §cПКМ §7по нужному ключу или'
-- '§7на нашей сайте §fKanddyCraft.net'
+- '§7на нашей сайте §fKanddyCraft.ru'
 BOX_SHOP_GUI_NAME: 'Покупка ключей'
 BOX_SHOP_SELECT_LORE:
 - '§7Купить ключи за %s'
@@ -9574,10 +9574,10 @@ HELP_COMMAND:
 - '§f/skin §7- поставить себе любой скин игрока'
 - '§f/party §7- субкоманда для создания своей группы'
 - ''
-- '§fАйпи сервера: §aplay.KanddyCraft.net'
-- '§fОнлайн магазин: §6KanddyCraft.net'
+- '§fАйпи сервера: §aplay.KanddyCraft.ru'
+- '§fОнлайн магазин: §6KanddyCraft.ru'
 - '§fГруппа VK: §dvk.com/KanddyCraft'
-- '§fДискорд: §9discord.KanddyCraft.net'
+- '§fДискорд: §9discord.KanddyCraft.ru'
 - ''
 ISLAND_TREE_NAME: 'Одно дерево'
 ISLAND_TREE_LORE:
