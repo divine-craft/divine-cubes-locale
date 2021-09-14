@@ -1,3 +1,5 @@
+VK_RULE_LINK: 'https://vk.com/topic-204554818_47727385'
+VK_GROUP_LINK: 'https://vk.me/kanddycraft'
 LANGUAGE_CHANGE: '§5Сервер §8| §fВаш язык изменен на §c%s'
 BOARD_DOMAIN: '§5play.kanddycraft.ru'
 PROJECT_NAME: '§5§lKanddyCraft'
@@ -229,7 +231,7 @@ BOSS_BAR_LOBBY:
 
 LIMIT_REACHED: '§5Сервер §8▏ §fВы достигли лимита для этого наказания, подождите еще §e%s'
 
-RULES_COMMAND: '§5Сервер §8▏ §fПолный список правил сервера - https://vk.com/topic-204554818_47727385'
+RULES_COMMAND: '§5Сервер §8▏ §fПолный список правил сервера -'
 RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по ссылке'
 
 NO_PERMS: '§cУ вас нет прав'
