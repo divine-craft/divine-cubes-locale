@@ -1,3 +1,5 @@
+VK_RULE_LINK: 'https://vk.com/topic-206999689_48102522'
+VK_GROUP_LINK: 'https://vk.me/juliuscraft'
 LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §c%s'
 BOARD_DOMAIN: '§eplay.juliuscraft.ru'
 PROJECT_NAME: '§6§lJuliusCraft'
@@ -229,7 +231,7 @@ BOSS_BAR_LOBBY:
 
 LIMIT_REACHED: '§6Сервер §8▏ §fВы достигли лимита для этого наказания, подождите еще §e%s'
 
-RULES_COMMAND: '§6Сервер §8▏ §fПолный список правил сервера - https://vk.com/topic-206999689_48102522'
+RULES_COMMAND: '§6Сервер §8▏ §fПолный список правил сервера -'
 RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по ссылке'
 
 NO_PERMS: '§cУ вас нет прав'
