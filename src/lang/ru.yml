@@ -11422,3 +11422,4 @@ ACCEPT_LORE_YES:
 - ''
 - '§7Подтвердить действие'
 ANARCHY_TPPOS_GUI_NAME: 'Подтвердить телепортацию'
+ANARCHY_COMMON_ACCEPT_GUI_NAME: 'Подтверждение'
