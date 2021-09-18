@@ -11185,7 +11185,7 @@ ANARCHY_SPAWNER_MAIN_MOB_GUI_NAME: 'Выбор главного моба'
 ANARCHY_SPAWNER_SLAVE_MOB_GUI_NAME: 'Выбор вторичного моба'
 ANARCHY_SPAWNER_UPGRADE_GUI_NAME: 'Улучшение спавнера'
 DROP_SPAWNER_GUI_NAME: 'Дроп спавнера'
-SPAWNER_MAIN_MOB_NAME: 'Выбор главного моба'
+SPAWNER_MAIN_MOB_NAME: '§eВыбор главного моба'
 SPAWNER_MAIN_MOB_LORE:
 - ' '
 - '§7Действующий моб: §a%s'
@@ -11272,8 +11272,8 @@ SPAWNER_FAST_SPAWN_LORE:
 SPAWNER_SECOND_ENTITY_NAME: 'Дополнительная сущность'
 SPAWNER_SECOND_ENTITY_LORE:
 - ' '
-- '§7С шансом 50\u0025 может заспавниться'
-- '§7ещё один дополнительный моб'
+- '§7С шансом 50 процентов может'
+- '§7заспавниться ещё один моб'
 - ' '
 - '§a▸ Нажмите, чтобы улучшить спавнер!'
 DROP_SPAWNER_LORE:
