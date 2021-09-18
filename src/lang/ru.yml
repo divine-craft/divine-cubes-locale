@@ -11228,7 +11228,7 @@ SPAWNER_NOT_BROKEN:
 SPAWNER_ENABLE_NAME: '§eВключить спавнер'
 SPAWNER_ENABLE_LORE:
 - ' '
-- '§7Включить/выключить спавн мобов'
+- '§7Статус: %s'
 - ' '
 - '§a▸ Нажмите, чтобы вкл/откл. спавнер!'
 SPAWNER_ALREADY_SECONDARY_MOB_LORE:
