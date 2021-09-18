@@ -11410,3 +11410,5 @@ ANARCHY_SHOP_LORE_ITEM:
 HOLO_RARESHOP:
 - '§aТорговец редкостями'
 - '§7Нажмите, чтобы открыть'
+
+TRAP_PLACE_ONLY_REGION: '§cТурели можно ставить только в своём регионе!'
