@@ -10742,38 +10742,38 @@ SELECT_VAULT_MONEY_LORE:
 - '§fНажмите, чтобы купить!'
 
 
-VIPE_KIT_BUY_GUI_NAME: 'Подтвердите вашу покупку'
-VIPE_KIT_BUY_LORE:
+WIPE_KIT_BUY_GUI_NAME: 'Подтвердите вашу покупку'
+WIPE_KIT_BUY_LORE:
 - ' '
 - '§7Нажмите, если вы уверены в вашем выборе!'
-VIPE_KIT_RERUN_GUI_NAME: 'Досрочная покупка набора'
-VIPE_KIT_RERUN_LORE:
+WIPE_KIT_RERUN_GUI_NAME: 'Досрочная покупка набора'
+WIPE_KIT_RERUN_LORE:
 - '§fНажмите, если вы уверены в вашем выборе!'
-VIPE_KIT_GUI_NAME: 'Киты на весь вайп'
-VIPE_KIT_DEFAULT_LORE:
+WIPE_KIT_GUI_NAME: 'Киты на весь вайп'
+WIPE_KIT_DEFAULT_LORE:
 - ' '
 - '§7Позволяет купить возможность'
 - '§7брать данный набор неограниченное'
 - '§7количество раз на этом вайпе,'
 - '§7с определенным интервалом'
 - ' '
-VIPE_KIT_LORE_ENABLE: '§aНажмите, чтобы забрать данный набор!'
-VIPE_KIT_LORE_COOLDOWN:
+WIPE_KIT_LORE_ENABLE: '§aНажмите, чтобы забрать данный набор!'
+WIPE_KIT_LORE_COOLDOWN:
 - ' '
 - '§7Позволяет купить возможность'
 - '§7брать данный набор неограниченное'
 - '§7количество раз на этом Вайпе'
 - ' '
-VIPE_KIT_LORE_BUY:
+WIPE_KIT_LORE_BUY:
 - ' '
 - '§aНажмите, чтобы купить данный набор'
 - '§7Цена: §a%s изумрудов'
-VIPE_KIT_SELECT: '§aВы успешно купили данный набор!'
-VIPE_KIT_PVP_NAME: '§bНабор для PvP'
-VIPE_KIT_BUILDER_NAME: '§bНабор Строителя'
-VIPE_KIT_GRIEFER_NAME: '§bНабор Грифера'
-VIPE_KIT_LIBRARIAN_NAME: '§bНабор Библиотекаря'
-VIPE_KIT_INSTRUMENTS_NAME: '§bНабор с Инструментами'
+WIPE_KIT_SELECT: '§aВы успешно купили данный набор!'
+WIPE_KIT_PVP_NAME: '§bНабор для PvP'
+WIPE_KIT_BUILDER_NAME: '§bНабор Строителя'
+WIPE_KIT_GRIEFER_NAME: '§bНабор Грифера'
+WIPE_KIT_LIBRARIAN_NAME: '§bНабор Библиотекаря'
+WIPE_KIT_INSTRUMENTS_NAME: '§bНабор с Инструментами'
 
 HOLO_SHOP:
 - '§bРынок'
