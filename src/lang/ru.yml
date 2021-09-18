@@ -11299,14 +11299,14 @@ ANARCHY_DONATE_SHOP_LORE:
 - '§7желанное намного раньше'
 - ' '
 - '§a▸ Нажмите, чтобы открыть!'
-ANARCHY_TURRET_SHOP_NAME: 'Магазин турелей'
+ANARCHY_TURRET_SHOP_NAME: '§eМагазин турелей'
 ANARCHY_TURRET_SHOP_LORE:
 - ' '
 - '§7Невероятные защитные приспособления'
 - '§7для защиты твоей базы'
 - ' '
 - '§a▸ Нажмите, чтобы открыть!'
-ANARCHY_SPAWNER_SHOP_NAME: 'Магазин спавнеров'
+ANARCHY_SPAWNER_SHOP_NAME: '§eМагазин спавнеров'
 ANARCHY_SPAWNER_SHOP_LORE:
 - ' '
 - '§7Фарми всех, кого захочешь, или'
@@ -11326,14 +11326,14 @@ ANARCHY_STUFF_SHOP_LORE:
 - '§7Удиви своих соперников крутыми вещами'
 - ' '
 - '§a▸ Нажмите, чтобы открыть!'
-ANARCHY_ARROWS_SHOP_NAME: 'Уникальные стрелы'
+ANARCHY_ARROWS_SHOP_NAME: '§eУникальные стрелы'
 ANARCHY_ARROWS_SHOP_LORE:
 - ' '
 - '§7Используй новые стрелы для ранее'
 - '§7недоступных задач'
 - ' '
 - '§a▸ Нажмите, чтобы открыть!'
-ANARCHY_POTIONS_SHOP_NAME: 'Уникальные зелья'
+ANARCHY_POTIONS_SHOP_NAME: '§eУникальные зелья'
 ANARCHY_POTIONS_SHOP_LORE:
 - ' '
 - '§7Получи огромную силу или срази'
@@ -11391,16 +11391,12 @@ MILK_POTION_LORE:
 - ' '
 - '§7При использовании снимает все'
 - '§7негативные эффекты с игрока'
-- ' '
-- '§a▸ Нажмите, чтобы купить!'
 
 CLEAR_POTION_NAME: 'Очищающие зелье'
 CLEAR_POTION_LORE:
 - ' '
 - '§7При использовании на игроках'
 - '§7снимает с них все эффекты'
-- ' '
-- '§a▸ Нажмите, чтобы купить!'
 
 RARE_SHOP_EMERALD_PRICE: '§7Цена за изумруды: §a%s'
 RARE_SHOP_MONEY_PRICE: '§7Цена за монетки: §e%s'
