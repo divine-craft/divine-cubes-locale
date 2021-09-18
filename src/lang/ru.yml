@@ -10714,9 +10714,7 @@ PROTECTION_UPGRADE_LEVEL_LORE:
 - '§7Позволяет увеличить ваш регион.'
 - '§7Будущий размер региона: §ax:%s y:%s z:%s'
 - '§7Цена: §e%s'
-PROTECTION_UPGRADE_LEVEL_SUCCES:
-- '§7Вы успешно прокачали регион §b%s!'
-- '§7Его текущий уровень: §d%s'
+PROTECTION_UPGRADE_LEVEL_SUCCES: '§7Вы успешно прокачали регион §b%s! §7Его текущий уровень: §d%s'
 PROTECTION_UPGRADE_LEVEL_SUCCES_TO:
 - '§7Регион §b%s §fбыл прокачен'
 - '§7До: §d%s §fуровня, игроком %s'
@@ -11193,31 +11191,31 @@ SPAWNER_MAIN_MOB_LORE:
 - '§7Действующий моб: §a%s'
 - ' '
 - '§a▸ Нажмите, чтобы сменить существо!'
-SPAWNER_SLAVE_MOB_NAME: 'Выбор вторичного моба'
+SPAWNER_SLAVE_MOB_NAME: '§eВыбор вторичного моба'
 SPAWNER_SLAVE_MOB_LORE:
 - ' '
 - '§7Действующий моб: §a%s'
 - ' '
 - '§a▸ Нажмите, чтобы сменить существо!'
-SPAWNER_UPGRADES_NAME: 'Улучшение спавнера'
+SPAWNER_UPGRADES_NAME: '§eУлучшение спавнера'
 SPAWNER_UPGRADES_LORE:
 - ' '
 - '§a▸ Нажмите, чтобы улучшить спавнер!'
-SPAWNER_DROP_NAME: 'Дропнуть спавнер'
+SPAWNER_DROP_NAME: '§eДропнуть спавнер'
 SPAWNER_DROP_LORE:
 - ' '
 - '§cПри этом действии все улучшения исчезают,'
-- '§состается только основной моб!'
+- '§cостается только основной моб!'
 - ' '
 - '§a▸ Нажмите, чтобы дропнуть спавнер!'
-SPAWNER_AI_NAME: 'Включить/выключить ИИ мобов!'
+SPAWNER_AI_NAME: '§eВключить/выключить ИИ мобов!'
 SPAWNER_AI_LORE:
 - ' '
 - '§7Когда включено, заспавненные мобы'
 - '§7нападают на игроков'
 - ' '
 - '§a▸ Нажмите, чтобы вкл/откл. ИИ'
-SPAWNER_REPAIR_NAME: 'Починить спавнер'
+SPAWNER_REPAIR_NAME: '§eПочинить спавнер'
 SPAWNER_REPAIR_LORE:
 - ' '
 - '§7Позволяет восстановить работу'
@@ -11228,7 +11226,7 @@ SPAWNER_NOT_BROKEN:
 - ' '
 - '§cНельзя починить уже работающий спавнер!'
 - ' '
-SPAWNER_ENABLE_NAME: 'Включить спавнер'
+SPAWNER_ENABLE_NAME: '§eВключить спавнер'
 SPAWNER_ENABLE_LORE:
 - ' '
 - '§7Включить/выключить спавн мобов'
@@ -11254,7 +11252,7 @@ SPAWNER_PRIMARY_MOB_LORE:
 - '§7сущьностю в этом спавнере!'
 - ' '
 - '§a▸ Нажмите, чтобы сменить существо!'
-SPAWNER_EXPLODE_PROTECTION_NAME: 'Защита от взрывов'
+SPAWNER_EXPLODE_PROTECTION_NAME: '§eЗащита от взрывов'
 SPAWNER_EXPLORE_PROTECTION_LORE:
 - ' '
 - '§7Позволяет вкл/откл. возможность'
@@ -11264,7 +11262,7 @@ SPAWNER_EXPLORE_PROTECTION_LORE:
 - '§7иссушителя и фаерболами гаста.'
 - ' '
 - '§a▸ Нажмите, чтобы вкл/откл. защиту!'
-SPAWNER_FAST_SPAWN_NAME: 'Быстрый спавн'
+SPAWNER_FAST_SPAWN_NAME: '§eБыстрый спавн'
 SPAWNER_FAST_SPAWN_LORE:
 - ' '
 - '§7Позволяет уменьшить интервал'
