@@ -10764,8 +10764,9 @@ WIPE_KIT_LORE_COOLDOWN:
 - ' '
 WIPE_KIT_LORE_BUY:
 - ' '
-- '§aНажмите, чтобы купить данный набор'
 - '§7Цена: §a%s изумрудов'
+- ' '
+- '§aНажмите, чтобы купить данный набор'
 WIPE_KIT_SELECT: '§aВы успешно забрали данный набор!'
 WIPE_KIT_PVP_NAME: '§bНабор для PvP'
 WIPE_KIT_BUILDER_NAME: '§bНабор Строителя'
@@ -11423,3 +11424,5 @@ ACCEPT_LORE_YES:
 - '§7Подтвердить действие'
 ANARCHY_TPPOS_GUI_NAME: 'Подтвердить телепортацию'
 ANARCHY_COMMON_ACCEPT_GUI_NAME: 'Подтверждение'
+SPAWNER_FIXED: '§7Спавнер успешно починен!'
+SPAWNER_UPGRADED: '§7Спавнер успешно улучшен!'
