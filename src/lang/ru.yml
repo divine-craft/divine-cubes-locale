@@ -11426,3 +11426,5 @@ ANARCHY_TPPOS_GUI_NAME: 'Подтвердить телепортацию'
 ANARCHY_COMMON_ACCEPT_GUI_NAME: 'Подтверждение'
 SPAWNER_FIXED: '§7Спавнер успешно починен!'
 SPAWNER_UPGRADED: '§7Спавнер успешно улучшен!'
+
+ANARCHY_NO_GOLD: '§2Anarchy §8▏§fУ вас недостаточно §aизумрудов!'
