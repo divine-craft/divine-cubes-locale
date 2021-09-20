@@ -1561,9 +1561,6 @@ CALL_INVITE_3: ' §fДля отмены запроса пиши §c'
 CALL_INVITE_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
 TPTOGGLE_ENABLE: 'Телепортации - §aвключены'
 TPTOGGLE_DISABLE: 'Телепортации - §cотключены'
-TRADE_ERROR: С вами еще никто не хотел поменяться
-TRADE_ERROR2: У вас нет ожидающих заявок от игрока %s
-TRADE_ERROR_YOU: §cВы не можете принимать запросы сами от себя :/
 TRADE_FORMAT: /trade <ник игрока>
 TRADE_HELP:
 - '§7/trade <ник> §f- предложить обмен'
@@ -10774,14 +10771,6 @@ VIPE_KIT_BUILDER_NAME: '§bНабор Строителя'
 VIPE_KIT_GRIEFER_NAME: '§bНабор Грифера'
 VIPE_KIT_LIBRARIAN_NAME: '§bНабор Библиотекаря'
 VIPE_KIT_INSTRUMENTS_NAME: '§bНабор с Инструментами'
-
-HOLO_SHOP:
-- '§bТорговец предметами'
-- '§7Нажмите, чтобы открыть'
-
-HOLO_CUSTOMSHOP:
-- '§aТорговец редкостями'
-- '§7Нажмите, чтобы открыть'
 
 ISLAND_FLAG_SNOW_LORE:
 - ''
