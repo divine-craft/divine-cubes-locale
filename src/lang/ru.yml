@@ -2321,7 +2321,8 @@ AUCTION_LORE_MYGUI:
 - '§7Цена продажи: §a%s Бат'
 - ''
 - '§a▸ ПКМ, чтобы снять с торгов'
-AUCTION_NO_AUCTION: 'Снят с продажи'
+AUCTION_NO_AUCTION: 
+- '§cСнят с продажи'
 AUCTION_SUB_TYPE_LORE:
 - ''
 - '§7Отсортировать все предметы'
