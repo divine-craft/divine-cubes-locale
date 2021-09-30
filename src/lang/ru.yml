@@ -11481,3 +11481,11 @@ DONATE_MENU_PROMPT_EMAIL_WRONG_FIRST: "§cВведён некорректный 
 DONATE_MENU_PROMPT_EMAIL_WRONG_SECOND: "§cвы купите товар не используя почту"
 DONATE_MENU_PROMPT_EMAIL_TEXT_FIRST: "§6[Нажми чтобы перейти к покупке]"
 DONATE_MENU_PROMPT_EMAIL_TEXT_SECOND: "Ссылка на покупку"
+
+DONATE_MENU_INSURANCE_ACCEPT_LORE:
+  - "First"
+  - "Second e.t.c"
+  -
+DONATE_MENU_INSURANCE_DECLINE_LORE:
+  - "First"
+  - "Second e.t.c"
