@@ -11478,9 +11478,15 @@ DONATE_MENU_BUY_INFO_STRING: "§aЦена покупки "
 
 DONATE_MENU_PROMPT_EMAIL_ENTRY_STRING: "§aВведи свой адрес почты: "
 DONATE_MENU_PROMPT_EMAIL_WRONG_FIRST: "§cВведён некорректный адрес почты"
-DONATE_MENU_PROMPT_EMAIL_WRONG_SECOND: "§cвы купите товар не используя почту"
+DONATE_MENU_PROMPT_EMAIL_WRONG_SECOND: "§cвы получите ссылку на покупку товара без почты"
 DONATE_MENU_PROMPT_EMAIL_TEXT_FIRST: "§6[Нажми чтобы перейти к покупке]"
 DONATE_MENU_PROMPT_EMAIL_TEXT_SECOND: "Ссылка на покупку"
+
+DONATE_MENU_PROMPT_COUPON_ENTRY_STRING: "§aВведи купон: "
+DONATE_MENU_PROMPT_COUPON_WRONG_FIRST: "§cВведён некорректный купон"
+DONATE_MENU_PROMPT_COUPON_WRONG_SECOND: "§cвы получите ссылку на покупку товара без купона"
+DONATE_MENU_PROMPT_COUPON_TEXT_FIRST: "§6[Нажми чтобы перейти к покупке]"
+DONATE_MENU_PROMPT_COUPON_TEXT_SECOND: "Ссылка на покупку"
 
 DONATE_MENU_INSURANCE_ACCEPT_LORE:
   - "First"
