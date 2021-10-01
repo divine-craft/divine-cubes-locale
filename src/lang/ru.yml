@@ -4060,6 +4060,18 @@ PR_MODULE_PASS_SUMMARY: '§fВы получили §a§l%s §fочков за п
 PR_MODULE_PASS_TIME_SUMMARY: '§fВы прошли модуль §a#%s §fза §a%s'
 PR_MODULE_SKIP_MESSAGE: 'Долго проходится §eмодуль§f? Кликните по §aморкови §fдля пропуска §c(награда не зачисляется)'
 
+SQUID_GAME_DOLL_LOOKING: '§cБежать нельзя!'
+SQUID_GAME_DOLL_NOT_LOOKING: '§a§lБегите!'
+
+SQUID_GAME_OVER_TITLE: '§cВы проиграли'
+SQUID_GAME_PLAYER_ELIMINATED: '§fИгрок %s §fвыбыл из игры'
+
+SQUID_GAME_DOLL_STAGE_TITLE: '§6Игра №1'
+SQUID_GAME_DOLL_STAGE_SUBTITLE: '§7Тише едешь - дальше будешь'
+
+SQUID_GAME_GLASS_STAGE_TITLE: '§6Игра №2'
+SQUID_GAME_GLASS_STAGE_SUBTITLE: '§7Не попадитесь на хрупкое стекло!'
+
 CHESTS_LOOTED_STAT: 'Открыто сундуков'
 PARKOURRACERS_CLASSIC_TYPE: '§eКлассический режим'
 PARKOURRACERS_SOLO_TYPE: '§eОдиночный режим'
@@ -4069,6 +4081,7 @@ SKYWARS_DUO_TYPE: '§eПарный режим'
 SG_SOLO_TYPE: '§eSurvialGames Solo'
 LUCKYWARS_SOLO_TYPE: '§eОдиночный режим'
 LUCKYWARS_DUO_TYPE: '§eПарный режим'
+SQUID_GAME_SOLO_TYPE: '§eSquid Game'
 BEDWARS_SOLO_TYPE: '§eОдиночный режим'
 BEDWARS_DUO_TYPE: '§eПарный режим'
 BEDWARS_TEAM_TYPE: '§eКомандный режим'
