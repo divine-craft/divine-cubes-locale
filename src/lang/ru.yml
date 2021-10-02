@@ -1050,6 +1050,8 @@ GUI_DONATE_SPONGE_SKYBLOCK_LORE:
 - ' §8▪ §7Разрешено иметь до §c30 §7предметов на аукционе (§f/ah§7)'
 - ''
 
+SQUID_GAME: 'Игра в кальмара'
+
 SELECTOR_NAME_GUI: 'Выбор сервера'
 SELECTOR_ITEM_LORE1:
 - '§7Вы на этом сервере!'
