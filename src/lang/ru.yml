@@ -334,11 +334,11 @@ HOLO_SHOP_NPC:
 HOLO_DONATE:
 - '§fПоддержи сервер, купи донат!'
 - '§d§lWARRIOR §f- от §699 §fРублей'
-- '§e§lKNIGHT §f- от §6149 §fРублей'
-- '§3§lLEGEND §f- от §6299 §fРублей'
+- '§e§lKNIGHT §f- от §6199 §fРублей'
+- '§3§lLEGEND §f- от §6399 §fРублей'
 - '§a§lANCIENT §f- от §6499 §fРублей'
-- '§%animation%§lIMMORTAL §f- от §6799 §fРублей'
-- '§5§lDIVINE §f- от §6999 §fРублей'
+- '§%animation%§lIMMORTAL §f- от §6699 §fРублей'
+- '§5§lDIVINE §f- от §6899 §fРублей'
 - '§fНаш онлайн-магазин:'
 - '§d§lDivineCraft.ru'
 
