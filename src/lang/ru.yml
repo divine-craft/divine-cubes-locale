@@ -334,11 +334,11 @@ HOLO_SHOP_NPC:
 HOLO_DONATE:
 - '§fПоддержи сервер, купи донат!'
 - '§d§lCOAL §f- от §699 §fРублей'
-- '§e§lGOLD §f- от §6149 §fРублей'
+- '§e§lGOLD §f- от §6199 §fРублей'
 - '§b§lDIAMOND §f- от §6399 §fРублей'
-- '§a§lEMERALD §f- от §6599 §fРублей'
-- '§%animation%§lENDER §f- от §61099 §fРублей'
-- '§c§lJULIUS §f- от §61599 §fРублей'
+- '§a§lEMERALD §f- от §6499 §fРублей'
+- '§%animation%§lENDER §f- от §6699 §fРублей'
+- '§c§lJULIUS §f- от §6899 §fРублей'
 - '§fНаш онлайн-магазин:'
 - '§a§lJuliusCraft.ru'
 
