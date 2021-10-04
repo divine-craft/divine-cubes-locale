@@ -21,8 +21,8 @@ NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
 # группы
-WHEAT_NAME: '§b§lGLORY'
-WHEAT_PREFIX: '§b§lGLORY §d'
+WHEAT_NAME: '§d§lGLORY'
+WHEAT_PREFIX: '§d§lGLORY §d'
 GOLD_NAME: '§6§lGOLD'
 GOLD_PREFIX: '§e§lGOLD §e'
 DIAMOND_NAME: '§b§lDIAMOND'
