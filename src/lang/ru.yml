@@ -11487,8 +11487,8 @@ ANARCHY_NO_GOLD: '§2Anarchy §8▏§fУ вас недостаточно §aиз
 
 DONATE_MENU_GUI_MENU_TITLE: 'Донат магазин'
 DONATE_MENU_GUI_MENU_PRIVILEGE_STRING: '§eПривилегии'
-DONATE_MENU_GUI_MENU_KEYS_STRING: '§eКлючи'
-DONATE_MENU_GUI_MENU_CURRENCY_STRING: '§eВалюта'
+DONATE_MENU_GUI_MENU_KEYS_STRING: '§bКлючи'
+DONATE_MENU_GUI_MENU_CURRENCY_STRING: '§aВалюта'
 
 DONATE_MENU_GUI_PRIVILEGE_TITLE: 'Магазин привилегий'
 DONATE_MENU_GUI_PRIVILEGE_STRING_PRIVILEGE: '§bПривилегия '
@@ -11496,7 +11496,7 @@ DONATE_MENU_GUI_PRIVILEGE_STRING_PRIVILEGE: '§bПривилегия '
 DONATE_MENU_GUI_KEYS_TITLE: 'Магазин ключей'
 
 DONATE_MENU_GUI_CURRENCY_TITLE: 'Магазин валюты'
-DONATE_MENU_GUI_CURRENCY_STRING_EMERALD: '§eИзумруды'
+DONATE_MENU_GUI_CURRENCY_STRING_EMERALD: '§aИзумруды'
 DONATE_MENU_GUI_CURRENCY_STRING_MONEY: '§eМонеты'
 
 DONATE_MENU_GUI_CHOOSE_PRIVILEGE_TITLE: 'Покупка привилегии '
@@ -11517,21 +11517,38 @@ DONATE_MENU_GUI_CHOOSE_CURRENCY_STRING_PRICE: '§aЦена покупки '
 DONATE_MENU_GUI_FINAL_TITLE: 'Страховка покупки'
 DONATE_MENU_GUI_FINAL_STRING_ACCEPT: '§aПодтвердить страховку'
 DONATE_MENU_GUI_FINAL_STRING_DECLINE: '§cОтклонить страховку'
-DONATE_MENU_GUI_FINAL_ACCEPT_LORE: "Accept lore"
-DONATE_MENU_GUI_FINAL_DECLINE_LORE:  "Decline lore"
+DONATE_MENU_GUI_FINAL_ACCEPT_LORE:
+- ' '
+- '§7Я согласен с приобретением страховки.'
+- '§7Мне важна возможность легко восстановить'
+- '§7свой аккаунт через техническую поддержку!'
+- '§7всеми возможными способами!'
+- ' '
+- '§a▸ Нажмите, чтобы подтвердить действие!'
+DONATE_MENU_GUI_FINAL_DECLINE_LORE:
+- ' '
+- '§7Я отказываюсь от страховки и возможности'
+- '§7быстро восстановить свой аккаунт через группу.'
+- '§7Я уверен, что мой аккаунт защищен достаточно'
+- '§7хорошо, чтобы обойтись без нее!'
+- ' '
+- '§c▸ Нажмите, чтобы подтвердить действие!'
 
-DONATE_MENU_EMERALD_NAME: 'Изумруд'
-DONATE_MENU_MONEY_NAME: 'Монета'
-DONATE_MENU_BUY_INFO_STRING: '§aЦена покупки '
+DONATE_MENU_EMERALD_NAME: 'Изумруды'
+DONATE_MENU_MONEY_NAME: 'Монеты'
+DONATE_MENU_BUY_INFO_STRING: '§fЦена покупки§a '
 
-DONATE_MENU_PROMPT_EMAIL_ENTRY_STRING: '§aВведи свой адрес почты: '
-DONATE_MENU_PROMPT_EMAIL_WRONG: '§cВведён некорректный адрес почты, вы получите ссылку на покупку товара без почты'
-DONATE_MENU_PROMPT_EMAIL_TEXT_FIRST: '§6[Нажми чтобы перейти к покупке]'
+DONATE_MENU_PROMPT_EMAIL_ENTRY_STRING: '§6Ваша покупка §8| §fВведи свой адрес почты: '
+DONATE_MENU_PROMPT_EMAIL_WRONG: '§6Ваша покупка §8| §fВведён §cнекорректный адрес §fпочты, вы получите ссылку на покупку без почты'
+DONATE_MENU_PROMPT_EMAIL_TEXT_FIRST: '§6Ваша покупка §8| §f[Нажми чтобы перейти к покупке]'
 DONATE_MENU_PROMPT_EMAIL_TEXT_SECOND: 'Ссылка на покупку'
 
-DONATE_MENU_PROMPT_COUPON_ENTRY_STRING: '§aВведи купон: '
-DONATE_MENU_PROMPT_COUPON_WRONG_FIRST: '§cВведён некорректный купон, вы получите ссылку на покупку товара без купона'
-DONATE_MENU_PROMPT_COUPON_TEXT_FIRST: '§6[Нажми чтобы перейти к покупке]'
+DONATE_MENU_PROMPT_COUPON_ENTRY_STRING: '§6Ваша покупка §8| §fВведи купон: [Если его нет, то напишите в чат что угодно]'
+DONATE_MENU_PROMPT_COUPON_WRONG_FIRST: '§6Ваша покупка §8| §fВведён §cнекорректный §fкупон, вы получите ссылку на покупку товара без купона'
+DONATE_MENU_PROMPT_COUPON_TEXT_FIRST:
+- ' '
+- '§a▸ Нажмитете, чтобы перейти к покупке!'
+- ' '
 DONATE_MENU_PROMPT_COUPON_TEXT_SECOND: 'Ссылка на покупку'
 
 DONATE_MENU_INSURANCE_ACCEPT_LORE:
