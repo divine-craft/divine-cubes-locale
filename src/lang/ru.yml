@@ -11465,7 +11465,7 @@ RARE_SHOP_MONEY_PRICE: '§7Цена за монетки: §e%s'
 ANARCHY_SHOP_GUI_NAME: 'Магазин'
 ANARCHY_SHOP_LORE_ITEM:
 - ' '
-- '§7Цена: §e%s %s'
+- '§7Цена: §e%s'
 - ' '
 - '§a▸ Нажмите, чтобы продать предмет!'
 
