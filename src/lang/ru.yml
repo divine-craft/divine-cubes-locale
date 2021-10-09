@@ -11566,3 +11566,20 @@ DONATE_MENU_INSURANCE_DECLINE_LORE:
 - '§7хорошо, чтобы обойтись без нее!'
 - ' '
 - '§c▸ Нажмите, чтобы подтвердить действие!'
+
+ANARCHY_BOSSES_GUI_NAME: 'Боссы'
+ANARCHY_BOSS_FIRST_ITEM_NAME: '§6§lВосставший мертвец'
+ANARCHY_BOSS_FIRST_ITEM_LORE:
+  - ' '
+  - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
+  - ' '
+ANARCHY_BOSS_SECOND_ITEM_NAME: '§6§lЗабытая душа'
+ANARCHY_BOSS_SECOND_ITEM_LORE:
+  - ' '
+  - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
+  - ' '
+ANARCHY_BOSS_THIRD_ITEM_NAME: '§6§lЭхо прошлого'
+ANARCHY_BOSS_THIRD_ITEM_LORE:
+  - ' '
+  - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
+  - ' '
