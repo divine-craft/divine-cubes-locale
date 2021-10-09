@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Дивайн",
+    "color": "LIGHT_PURPLE",
+    "head_value": "ewogICJ0aW1lc3RhbXAiIDogMTYzMzc4NTg1NjgxNCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hODk2NzA1OTY2ZGM0MDU2Zjc3MmUxYzcwYzU5N2M1YWU1ODYzODM1NTRlNTJhNDgzMWUwMzUzYzhiMTc5ZjU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "titles": [
+      {
+        "price": 58,
+        "title": "Обжора",
+        "rarity": "COMMON"
+      },
+      {
+        "price": 58,
+        "title": "ДивайнХата",
+        "rarity": "LEGENDARY"
+      },
+      {
+        "price": 58,
+        "title": "Тех.Работы",
+        "rarity": "LEGENDARY"
+      },
+      {
+        "price": 58,
+        "title": "Клоун",
+        "rarity": "COMMON"
+      },
+      {
+        "price": 58,
+        "title": "Рич-Бич",
+        "rarity": "RARE"
+      },
+      {
+        "price": 58,
+        "title": "Бигтейсти",
+        "rarity": "RARE"
+      },
+      {
+        "price": 58,
+        "title": "Абьюзер",
+        "rarity": "COMMON"
+      },
+      {
+        "price": 58,
+        "title": "Гадзилла",
+        "rarity": "LEGENDARY"
+      }
+    ]
+  }
+]
