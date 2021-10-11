@@ -11567,3 +11567,5 @@ ANARCHY_BOSS_THIRD_ITEM_LORE:
   - ' '
   - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
   - ' '
+ANARCHY_BOSS_ANNOUNCE_RESPAWN_TIME_LEFT: '§6Босс §f%s §6появится через §a%d мин §6на §b%d §6сервере!'
+ANARCHY_BOSS_ANNOUNCE_RESPAWN: '§6Босс §f%s §6появился на §b%d §6сервере!'
