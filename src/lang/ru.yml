@@ -11543,12 +11543,12 @@ DONATE_MENU_PROMPT_EMAIL_TEXT_FIRST: '§6Ваша покупка §8| §f[Наж
 DONATE_MENU_PROMPT_EMAIL_TEXT_SECOND: 'Ссылка на покупку'
 
 DONATE_MENU_PROMPT_COUPON_ENTRY_STRING: '§6Ваша покупка §8| §fВведи купон: [Если его нет, то напишите в чат что угодно]'
-DONATE_MENU_PROMPT_COUPON_WRONG_FIRST: '§6Ваша покупка §8| §fВведён §cнекорректный §fкупон, вы получите ссылку на покупку товара без купона'
+DONATE_MENU_PROMPT_COUPON_WRONG: '§6Ваша покупка §8| §fВведён §cнекорректный §fкупон, вы получите ссылку на покупку товара без купона'
 DONATE_MENU_PROMPT_COUPON_TEXT_FIRST:
 - ' '
 - '§a▸ Нажмитете, чтобы перейти к покупке!'
 - ' '
-DONATE_MENU_PROMPT_COUPON_TEXT_SECOND: 'Ссылка на покупку'
+DONATE_MENU_PROMPT_COUPON_TEXT_SECOND: '§a▸ Нажмитете, чтобы перейти к покупке!'
 
 ANARCHY_BOSSES_GUI_NAME: 'Боссы'
 ANARCHY_BOSS_FIRST_ITEM_NAME: '§6§lВосставший мертвец'
