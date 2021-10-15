@@ -11552,19 +11552,7 @@ DONATE_MENU_PROMPT_COUPON_TEXT_FIRST:
 DONATE_MENU_PROMPT_COUPON_TEXT_SECOND: 'Ссылка на покупку'
 
 ANARCHY_BOSSES_GUI_NAME: 'Боссы'
-ANARCHY_BOSS_FIRST_ITEM_NAME: '§6§lВосставший мертвец'
-ANARCHY_BOSS_FIRST_ITEM_LORE:
+ANARCHY_BOSS_ITEM_LORE:
   - ' '
   - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
   - ' '
-ANARCHY_BOSS_SECOND_ITEM_NAME: '§6§lЗабытая душа'
-ANARCHY_BOSS_SECOND_ITEM_LORE:
-  - ' '
-  - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
-  - ' '
-ANARCHY_BOSS_THIRD_ITEM_NAME: '§6§lЭхо прошлого'
-ANARCHY_BOSS_THIRD_ITEM_LORE:
-  - ' '
-  - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
-  - ' '
-ANARCHY_BOSS_ANNOUNCE_RESPAWN: '§6Босс §f%s §6появился на сервере §b%s!'
