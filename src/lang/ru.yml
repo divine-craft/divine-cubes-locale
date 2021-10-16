@@ -11560,4 +11560,4 @@ ANARCHY_BOSS_ITEM_LORE:
   - ' '
   - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
   - ' '
-ANARCHY_BOSS_ANNOUNCE_RESPAWN: '§eПоявился босс §f%s§e! Телепортируйтесь к нему по команде §b/boss§e.
+ANARCHY_BOSS_ANNOUNCE_RESPAWN: '§eПоявился босс §f%s§e! Телепортируйтесь к нему по команде §b/boss§e.'
