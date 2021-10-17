@@ -1,0 +1,70 @@
+
+[
+  {
+    "name": "Житель",
+    "color": "RED",
+    "head_value": "ewogICJ0aW1lc3RhbXAiIDogMTYzNDQ4MzIwMjI4NCwKICAicHJvZmlsZUlkIiA6ICJiYmUwYjM4MTMwNTU0MTIwYTc3YWRiZmUzYTYwZWMyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmlsbGFnZV8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE0YWY3MTg0NTVkNGFhYjUyOGU3YTYxZjg2ZmEyNWU2YTM2OWQxNzY4ZGNiMTNmN2RmMzE5YTcxM2ViODEwYiIKICAgIH0KICB9Cn0=",
+    "titles": [
+      {
+        "id": 1400,
+        "price": -1,
+        "title": "Лидер мнений",
+        "rarity": "EPIC"
+      },
+      {
+        "id": 1401,
+        "price": -1,
+        "title": "Летсплейщик",
+        "rarity": "COMMON"
+      },
+      {
+        "id": 1402,
+        "price": -1,
+        "title": "Настоящий житель",
+        "rarity": "LEGENDARY"
+      },
+      {
+        "id": 1403,
+        "price": -1,
+        "title": "Виладжер",
+        "rarity": "COMMON"
+      },
+      {
+        "id": 1404,
+        "price": -1,
+        "title": "Компот",
+        "rarity": "COMMON"
+      },
+      {
+        "id": 1405,
+        "price": -1,
+        "title": "Сухофрукт",
+        "rarity": "RARE"
+      },
+      {
+        "id": 1406,
+        "price": -1,
+        "title": "Деревенщина",
+        "rarity": "COMMON"
+      },
+      {
+        "id": 1407,
+        "price": -1,
+        "title": "Подписчик",
+        "rarity": "RARE"
+      },
+      {
+        "id": 1408,
+        "price": -1,
+        "title": "Донатер",
+        "rarity": "EPIC"
+      },
+      {
+        "id": 1409,
+        "price": -1,
+        "title": "Миллионер",
+        "rarity": "LEGENDARY"
+      }
+    ]
+  }
+]
