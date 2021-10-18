@@ -11527,3 +11527,8 @@ SQUID_GAME_GLASS_STAGE_SUBTITLE: '§7Не попадитесь на хрупко
 SQUID_GAME_SOLO_TYPE: '§eSquid Game'
 
 SQUID_GAME: 'Игра в кальмара'
+
+HOLO_BOSS:
+- '§cБитва с боссами'
+- '§7Нажмите, чтобы открыть'
+FIREWORK_ROCKET: 'Фейерверк'
