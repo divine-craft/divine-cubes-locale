@@ -11553,3 +11553,8 @@ DONATE_MENU_PROMPT_COUPON_TEXT_FIRST:
   - '§a▸ Нажмите, чтобы перейти к покупке!'
   - ' '
 DONATE_MENU_PROMPT_COUPON_TEXT_SECOND: 'Ссылка на покупку'
+
+HOLO_BOSS:
+- '§cБитва с боссами'
+- '§7Нажмите, чтобы открыть'
+FIREWORK_ROCKET: 'Фейерверк'
