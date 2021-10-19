@@ -11532,3 +11532,10 @@ HOLO_BOSS:
 - '§cБитва с боссами'
 - '§7Нажмите, чтобы открыть'
 FIREWORK_ROCKET: 'Фейерверк'
+
+ANARCHY_BOSSES_GUI_NAME: 'Боссы'
+ANARCHY_BOSS_ITEM_LORE:
+  - ' '
+  - '§a▸ Нажмите, чтобы телепортироваться к боссу!'
+  - ' '
+ANARCHY_BOSS_ANNOUNCE_RESPAWN: '§fПоявился босс §e%s§f! Телепортируйтесь к нему по команде §b/boss§f.'
