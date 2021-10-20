@@ -4244,7 +4244,7 @@ HUB_HORSE_HOLO:
 - 'Нажмите, чтобы взять лошадку'
 HUB_VK_HOLO:
 - '§fЗаходите в нашу группу §7§lVK'
-- '§d§lvk.com/DivineCraft'
+- '§d§lvk.com/DivineCraftru'
 HUB_DISCORD_HOLO:
 - '§fГолосовой чат сервера §7§lDiscord'
 - '§d§ldiscord'
@@ -4461,7 +4461,7 @@ YOU_ARE_MUTED:
 - ' §7Заблокировал: §c%s'
 - ''
 - ' §7Обжаловать наказание можно в группе VK:'
-- ' §d§nvk.com/DivineCraft'
+- ' §d§nvk.com/DivineCraftru'
 - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 YOU_WERE_UNMUTED: '§5Сервер §8▏ §fДоступ к чату был восстановлен! Вы снова можете говорить!'
 BROADCAST_UNBAN: '§cМодерация §8▏ §f%s §7снял бан с %s'
@@ -9592,7 +9592,7 @@ HELP_COMMAND:
 - ''
 - '§fАйпи сервера: §dplay.DivineCraft.ru'
 - '§fОнлайн магазин: §dDivineCraft.ru'
-- '§fГруппа VK: §dvk.com/DivineCraft'
+- '§fГруппа VK: §dvk.com/DivineCraftru'
 - '§fДискорд: §9discord.DivineCraft.ru'
 - ''
 ISLAND_TREE_NAME: 'Одно дерево'
