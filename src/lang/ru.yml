@@ -11294,6 +11294,7 @@ DROP_SPAWNER_LORE:
 - '§a▸ Нажмите, чтобы дропнуть спавнер!'
 
 ANARCHY_RARESHOP_MAIN_GUI_NAME: 'Магазин крутых вещей'
+ANARCHY_RARESHOP_TNT_GUI_NAME: 'Магазин мощного динамита'
 ANARCHY_RARESHOP_TURRET_GUI_NAME: 'Магазин турелей'
 ANARCHY_RARESHOP_SPAWNERS_GUI_NAME: 'Магазин спавнеров'
 ANARCHY_RARESHOP_ENCHANTS_GUI_NAME: 'Магазин енчантов'
@@ -11306,6 +11307,13 @@ ANARCHY_DONATE_SHOP_LORE:
 - ' '
 - '§7Сбереги время и получи'
 - '§7желанное намного раньше'
+- ' '
+- '§a▸ Нажмите, чтобы открыть!'
+ANARCHY_TNT_SHOP_NAME: '§eМагазин мощного динамита'
+ANARCHY_TNT_SHOP_LORE:
+- ' '
+- '§7Уничтожительня вызрывная сила'
+- '§7Аннигилируй своих врагов'
 - ' '
 - '§a▸ Нажмите, чтобы открыть!'
 ANARCHY_TURRET_SHOP_NAME: '§eМагазин турелей'
